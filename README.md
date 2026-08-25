@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Amol Koli<br>AI Engineer | Python Developer<br>Currently focused on becoming a stronger AI Engineer<br><br>🎓 Education<br>MCA — AI & ML<br>BCA — Computer Applications<br><br>💼 Professional Experience<br>Dynamics 365 CRM<br>C# plugins & workflows<br>Power Apps / Power Automate<br>SSIS / KingswaySoft<br>PCF controls<br>Azure DevOps / CI-CD<br><br>🏆 Certifications<br>Oracle Certified Foundations Associate – Agentic AI<br>Neural Networks & Deep Learning<br>Python<br>Java<br>100 Days of Code Python Bootcamp
 
 
